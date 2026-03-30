@@ -512,8 +512,8 @@ Contributions of all kinds are welcome: code, notes, diagrams, bugfixes, better 
 *AI Automation Engineer · Generative AI Practitioner*
 
 - GitHub: [@gaurav-singh-tech](https://github.com/gaurav-singh-tech)  
-- LinkedIn: *(add your link here)*  
-- Email: *(add your email here)*  
+- LinkedIn: *(https://www.linkedin.com/in/contact-gauravsingh/)*  
+- Email: *(gauravbisht2803@gmail.com)*  
 
 ---
 
