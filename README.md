@@ -35,3 +35,97 @@ Welcome to your **complete Generative AI mastery hub**. This repository contains
 ---
 
 ## 📊 Repository Highlights
+
+
+---
+
+## 🧠 Architecture Mindmap
+
+```mermaid
+mindmap
+  root((🧠 Generative AI Ecosystem))
+    LLM Models
+      OpenAI Family
+        GPT-4 / GPT-4 Turbo
+        GPT-3.5 Turbo
+        DALL-E 3
+        Whisper
+      Anthropic
+        Claude 3 Opus
+        Claude 3 Sonnet
+        Claude 3 Haiku
+      Open Source
+        LLaMA 2 / 3
+        Mistral 7B/Large
+        Phi Models
+        Falcon
+    Core Techniques
+      Prompt Engineering
+        Few-Shot Learning
+        Chain-of-Thought
+        Role-Playing & Personas
+        Constraint-Based
+        Iterative Refinement
+      Fine-Tuning Methods
+        LoRA Adaptation
+        QLoRA (Quantized)
+        Full Fine-Tuning
+        Instruction Tuning
+      RAG Techniques
+        Vector Embeddings
+        Retrieval Ranking
+        Context Augmentation
+        Hybrid Search
+    Frameworks & Tools
+      LangChain
+      LlamaIndex
+      Semantic Kernel
+      AutoGen
+      CrewAI
+    Applications
+      Chatbots & Assistants
+      Content Generation
+      Code Generation & Analysis
+      Data Analysis & BI
+      Research Assistants
+      Creative Writing
+    Optimization Strategies
+      Quantization Methods
+      Model Distillation
+      Caching Strategies
+      Batch Processing
+      Token Optimization
+    Deployment & Scaling
+      Docker Containerization
+      Kubernetes Orchestration
+      Serverless Functions
+      Edge Deployment
+      Multi-Region Setup
+
+┌────────────────────────────────────────────────────────────┐
+│           🚀 CORE TECHNOLOGY ECOSYSTEM                     │
+├────────────────────────────────────────────────────────────┤
+│                                                            │
+│  🤖 LLM Models        🔗 Frameworks       💾 Storage      │
+│  ├─ OpenAI APIs       ├─ LangChain       ├─ Pinecone      │
+│  ├─ Anthropic Claude  ├─ LlamaIndex      ├─ Weaviate      │
+│  ├─ HuggingFace Hub   ├─ Semantic Kernel ├─ Milvus        │
+│  ├─ Local (LLaMA)     ├─ AutoGen         ├─ Qdrant        │
+│  └─ Ollama            └─ CrewAI          └─ FAISS         │
+│                                                            │
+│  🎯 Embeddings Model  📦 Deployment      ⚙️ Optimization  │
+│  ├─ OpenAI            ├─ Docker          ├─ Quantization  │
+│  ├─ Cohere            ├─ Kubernetes      ├─ Distillation  │
+│  ├─ HuggingFace       ├─ AWS Lambda      ├─ Caching       │
+│  ├─ Local Models      ├─ GCP/Azure       ├─ Batching      │
+│  └─ BGE Embeddings    └─ Vercel/Railway  └─ Token Pooling │
+│                                                            │
+│  📊 Monitoring        🔐 Security        💰 Cost Control  │
+│  ├─ Prometheus        ├─ API Key Manager ├─ Batch API     │
+│  ├─ Grafana           ├─ Rate Limiting   ├─ Model Select  │
+│  ├─ ELK Stack         ├─ Encryption      └─ Cache Layer   │
+│  └─ DataDog           └─ Audit Logging                    │
+│                                                            │
+└────────────────────────────────────────────────────────────┘
+
+
