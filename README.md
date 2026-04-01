@@ -12,7 +12,7 @@
 
 **A premium, practical repository of Generative AI experiments** — built around **LangChain** integrations for:
 **LLMs**, **Chat Models**, **Embeddings / Similarity**, and **Chains**.
-
+ 
 </div>
 
 ---
