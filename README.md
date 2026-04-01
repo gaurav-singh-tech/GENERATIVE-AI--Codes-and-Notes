@@ -30,7 +30,7 @@ This repository is organized into focused folders:
 
 ---
 
-## 🧭 Visual Mindmap (Repository Map)
+## 🧭 Visual Mindmap (Repository Map) 
 
 ```mermaid
 mindmap
